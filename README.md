@@ -1,6 +1,6 @@
-# Tutorial: encrypty
+# Overview
 
-This project, `encrypty`, is a C++ application that enables *fast* **encryption** and **decryption** of files within a specified directory. It significantly speeds up these operations by processing multiple files *concurrently* using **parallel computing techniques**.
+This project is a C++ application that enables *fast* **encryption** and **decryption** of files within a specified directory. It significantly speeds up these operations by processing multiple files *concurrently* using **parallel computing techniques**.
 
 ## Visual Overview
 
@@ -1104,4 +1104,5 @@ In this chapter, we've explored **Parallel Task Orchestration**. We learned that
 With this, you now have a comprehensive understanding of how `encrypty` takes your instructions, manages files, handles keys, defines jobs, and efficiently executes them – even in parallel!
 
 ---
+
 
