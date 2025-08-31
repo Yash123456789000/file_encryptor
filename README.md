@@ -31,18 +31,12 @@ flowchart TD
 
 ## Chapters
 
-1. [File Input/Output Wrapper (IO)
-](01_file_input_output_wrapper__io__.md)
-2. [Cryption Key Management
-](02_cryption_key_management_.md)
-3. [Task Definition
-](03_task_definition_.md)
-4. [Main Application Control Flow
-](04_main_application_control_flow_.md)
-5. [Core Cryption Algorithm
-](05_core_cryption_algorithm_.md)
-6. [Parallel Task Orchestration
-](06_parallel_task_orchestration_.md)
+1. [File Input/Output Wrapper (IO)](#chapter-1-file-inputoutput-wrapper-io)  
+2. [Cryption Key Management](#chapter-2-cryption-key-management)  
+3. [Task Definition](#chapter-3-task-definition)  
+4. [Main Application Control Flow](#chapter-4-main-application-control-flow)  
+5. [Core Cryption Algorithm](#chapter-5-core-cryption-algorithm)  
+6. [Parallel Task Orchestration](#chapter-6-parallel-task-orchestration) 
 
 ---
 
@@ -1104,5 +1098,6 @@ In this chapter, we've explored **Parallel Task Orchestration**. We learned that
 With this, you now have a comprehensive understanding of how `encrypty` takes your instructions, manages files, handles keys, defines jobs, and efficiently executes them – even in parallel!
 
 ---
+
 
 
